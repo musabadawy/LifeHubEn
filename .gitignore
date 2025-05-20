@@ -1,0 +1,9 @@
+# React Native / Expo
+node_modules/
+.expo/
+.expo-shared/
+*.log
+*.tmp
+*.env
+*.DS_Store
+npm-debug.log
